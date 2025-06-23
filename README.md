@@ -12,8 +12,7 @@ GestureNinja is a real-time hand gesture recognition project using computer visi
 - OpenCV
 - MediaPipe / TensorFlow (if applicable)
 
-## 📸 Demo
-[Insert demo GIF or video link here]
+
 
 ## 📂 Setup
 
